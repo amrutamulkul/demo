@@ -1,4 +1,4 @@
 # demo
 This is my first Git repository
 <br>
-Author: - Amruta mulkul
+Author: - Amruta mulkul karmoti
